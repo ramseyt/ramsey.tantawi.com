@@ -1,6 +1,6 @@
 ---
-title: EleventyOne
-subtitle: A project scaffold for getting building with Eleventy quickly.
+title: ramsey.tantawi.com
+subtitle: Ramsey Tantawi's home on the web
 layout: layouts/base.njk
 ---
 
