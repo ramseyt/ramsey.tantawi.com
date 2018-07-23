@@ -1,6 +1,6 @@
 ---
-title: ramsey.tantawi.com
-subtitle: Ramsey Tantawi's home on the web
+title: Home
+subtitle: Ramsey Tantawi's home on the web.
 layout: layouts/base.njk
 ---
 
